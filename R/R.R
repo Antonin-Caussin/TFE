@@ -14,10 +14,6 @@ library(covr)
 
 devtools::check()
 
-# Initialisation de GitHub
-
-usethis::use_git()
-
 # 1. Initier un package -------------------------------------
 # Étapes à ne faire qu'une seule fois
 
